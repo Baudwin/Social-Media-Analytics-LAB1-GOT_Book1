@@ -88,9 +88,17 @@ According to degree centrality:
 
 ## Running the Project
 
+### Option 1 — Google Colab
+
 The notebook can be opened directly in Google Colab.
 
-Alternatively, install the required Python packages:
+Make sure `GOT-book1.csv` is available in the same working directory as the
+notebook.
+
+### Option 2 — Run Locally
+
+Clone the repository and navigate to the project directory:
 
 ```bash
-pip install -r requirements.txt
+git clone <your-repository-url>
+cd social-media-analytics-lab1
