@@ -101,4 +101,4 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone <your-repository-url>
-cd social-media-analytics-lab1
+cd Social-Media-Analytics-LAB1-GOT_Book1
